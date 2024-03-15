@@ -8,7 +8,7 @@
 * Deep Learning
 * Machine Learning
 
-👉[My Online Portfolio](https://empty)
+👉[My Online Portfolio](https://www.datascienceportfol.io/prasad_nagineni)
 
 
 <h3 align="left">Languages and Tools:</h3>
