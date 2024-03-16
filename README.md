@@ -5,8 +5,12 @@
 
 
 ### I have technical interest in:
-* Deep Learning
 * Machine Learning
+* Deep Learning
+* Computer Vision
+* Natural Language Processing
+* Large Language Models
+
 
 👉[My Online Portfolio](https://www.datascienceportfol.io/prasad_nagineni)
 
